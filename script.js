@@ -60,7 +60,7 @@ function buildBookmarks() {
     linkInfo.classList.add("name");
     //Favicon
     const favicon = document.createElement("img");
-    favicon.setAttribute("src", "img/favicon-16x16 copy 2.png");
+    favicon.setAttribute("src", "favicon.png");
     favicon.setAttribute("alt", "Favicon");
     //Link
     const link = document.createElement("a");
